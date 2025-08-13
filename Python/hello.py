@@ -1,2 +1,1 @@
-import easygui
-easygui.msgbox(msg = "Hello world!", title = "hello", ok_button = "Hello,there!")
+print("Hello world!")#print a text
